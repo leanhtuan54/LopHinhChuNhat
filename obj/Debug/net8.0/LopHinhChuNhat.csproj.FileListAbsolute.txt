@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\LopHinhChuNhat\bin\Debug\net8.0\LopHinhChuNhat.exe
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\LopHinhChuNhat\bin\Debug\net8.0\LopHinhChuNhat.deps.json
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\LopHinhChuNhat\bin\Debug\net8.0\LopHinhChuNhat.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\LopHinhChuNhat\bin\Debug\net8.0\LopHinhChuNhat.dll
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\LopHinhChuNhat\bin\Debug\net8.0\LopHinhChuNhat.pdb
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\LopHinhChuNhat\obj\Debug\net8.0\LopHinhChuNhat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\LopHinhChuNhat\obj\Debug\net8.0\LopHinhChuNhat.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\LopHinhChuNhat\obj\Debug\net8.0\LopHinhChuNhat.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\LopHinhChuNhat\obj\Debug\net8.0\LopHinhChuNhat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\LopHinhChuNhat\obj\Debug\net8.0\LopHinhChuNhat.dll
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\LopHinhChuNhat\obj\Debug\net8.0\refint\LopHinhChuNhat.dll
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\LopHinhChuNhat\obj\Debug\net8.0\LopHinhChuNhat.pdb
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\LopHinhChuNhat\obj\Debug\net8.0\LopHinhChuNhat.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\LopHinhChuNhat\obj\Debug\net8.0\ref\LopHinhChuNhat.dll
